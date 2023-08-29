@@ -1,10 +1,10 @@
 # Curso de Testes de API com Rest Assured :computer:
 
-Bem-vindo ao repositório do curso de Testes de API com Rest Assured! Neste curso, você aprenderá a criar testes automatizados para APIs utilizando a biblioteca Rest Assured em Java. O objetivo deste curso é fornecer uma introdução abrangente às técnicas e práticas essenciais para testar APIs de forma eficaz. :rocket:
+Bem-vindo ao repositório do curso de Testes de API com Rest Assured! Neste curso, vou aprender a criar testes automatizados para APIs utilizando a biblioteca Rest Assured em Java. O objetivo deste curso é fornecer uma introdução abrangente às técnicas e práticas essenciais para testar APIs de forma eficaz. :rocket:
 
 ## Tópicos Abordados :books:
 
-Neste curso, você aprenderá:
+O que farei nesse curso:
 
 - Criar um projeto de testes com Rest Assured do zero :construction_worker:
 - Fazer requisições em APIs Rest utilizando os verbos HTTP mais populares :arrows_counterclockwise:
