@@ -30,3 +30,6 @@ O que farei nesse curso:
 
    ```bash
    git clone https://github.com/andrezatuanny/testando-api-rest-assured.git
+
+
+O cruso é ministrado pelo instrutor Francisco Wagner Costa Aquino, na plataforma de cursos Udemy.
